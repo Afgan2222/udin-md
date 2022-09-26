@@ -28,28 +28,28 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 #### KELEBIHAN 🪄
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/ImYanXiao) |
-| **Simple** |[✔️](https://github.com/ImYanXiao) |
-| **Button Template** |[✔️](https://github.com/ImYanXiao) |
-| **Multi Device** |[✔️](https://github.com/ImYanXiao) |
-| **Button Document** |[✔️](https://github.com/ImYanXiao) |
+| **Fast Respon** |[✔️](https://github.com/Alpiii22) |
+| **Simple** |[✔️](https://github.com/Alpiii22) |
+| **Button Template** |[✔️](https://github.com/Alpiii22) |
+| **Multi Device** |[✔️](https://github.com/Alpiii22) |
+| **Button Document** |[✔️](https://github.com/Alpiii22) |
 ---------
 #### FITUR 🎀
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/ImYanXiao) |
-| **Internet** |[✔️](https://github.com/ImYanXiao) |
-| **Game Rpg** |[✔️](https://github.com/ImYanXiao) |
-| **Nsfw** |[✔️](https://github.com/ImYanXiao) |
-| **Sticker** |[✔️](https://github.com/ImYanXiao) |
-| **Game** |[✔️](https://github.com/ImYanXiao) |
-| **Kerang Ajaib** |[✔️](https://github.com/ImYanXiao) |
-| **Quotes** |[✔️](https://github.com/ImYanXiao) |
-| **Anime** |[✔️](https://github.com/ImYanXiao) |
-| **Premium** |[✔️](https://github.com/ImYanXiao) |
-| **Tools** |[✔️](https://github.com/ImYanXiao) |
-| **Exec** |[✔️](https://github.com/ImYanXiao) |
-| **React** |[✔️](https://github.com/ImYanXiao) |
+| **Downloader** |[✔️](https://github.com/Alpiii22) |
+| **Internet** |[✔️](https://github.com/Alpiii22) |
+| **Game Rpg** |[✔️](https://github.com/Alpiii22) |
+| **Nsfw** |[✔️](https://github.com/Alpiii22) |
+| **Sticker** |[✔️](https://github.com/Alpiii22) |
+| **Game** |[✔️](https://github.com/Alpiii22) |
+| **Kerang Ajaib** |[✔️](https://github.com/Alpiii22) |
+| **Quotes** |[✔️](https://github.com/Alpiii22) |
+| **Anime** |[✔️](https://github.com/Alpiii22) |
+| **Premium** |[✔️](https://github.com/Alpiii22) |
+| **Tools** |[✔️](https://github.com/Alpiii22) |
+| **Exec** |[✔️](https://github.com/Alpiii22) |
+| **React** |[✔️](https://github.com/Alpiii22) |
 ---------
 
 ## `SETTING`
