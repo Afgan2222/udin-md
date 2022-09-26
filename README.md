@@ -54,13 +54,13 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/ImYanXiao/Elaina-MultiDevice/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/ImYanXiao/Elaina-Multidevice/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/ImYanXiao/Elaina-Multidevice/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImYanXiao/Elaina-MultiDevice)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImYanXiao/OSCAR-MULTIDEVICE)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -226,11 +226,11 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/ImYanXiao)
-* [`My parents`](https://github.com/ImYanXiao)
-* [`All Friends`](https://github.com/ImYanXiao)
-* [`All Contributors`](https://github.com/ImYanXiao)
-* [`All Creator Bot`](https://github.com/ImYanXiao)
+* [`Allah SWT`](https://github.com/Alpiii22)
+* [`My parents`](https://github.com/Alpiii22)
+* [`All Friends`](https://github.com/Alpiii22)
+* [`All Contributors`](https://github.com/Alpiii22)
+* [`All Creator Bot`](https://github.com/Alpiii22)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
@@ -239,4 +239,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![ImYanXiao](https://github.com/ImYanXiao.png?size=70)](https://github.com/ImYanXiao)
+[![JAROT](https://github.com/Alpiii22.png?size=70)](https://github.com/Alpiii22)
