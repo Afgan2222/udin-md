@@ -20,16 +20,16 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/f38f1ce61e1e674e20e94.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Oscar Offc
-${htjava} *✉️ Nama YouTube* : Rismabotz offc
+${htjava} *💌 Nama* : GannReall/Afgann💀💀
+${htjava} *✉️ Nama YouTube* : --
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 30 Januari 2004
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : Lulus 
-${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
+${htjava} *⏰ Tanggal lahir* : 06 September 2007
+${htjava} *🎨 Umur* : 15
+${htjava} *🧮 Kelas* : 9
+${htjava} *🧩 Hobby* : Main Game, Chatting, Musik
 ${htjava} *💬 Sifat* : Baik, No seleb, Y, Y
-${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
+${htjava} *🗺️ Tinggal* : Indo, Banten, Jawa barat
 ${htjava} *❤️ Suka* : Kamu
 ${htjava} *💔 Benci* : autis, seleb
 
@@ -38,7 +38,7 @@ ${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Jarot
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
+  let teks = 'Klik ini Tod🗿 ! o(〃＾▽＾〃)o'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
@@ -59,9 +59,9 @@ const sections = [
 
 const listMessage = {
   text: teks,
-  footer: null,
+  footer: © GannReall,
   title: `${htki} *OWNER* ${htka}`,
-  buttonText: "Click Here !",
+  buttonText: "Click Here Kids !🗿",
   sections
 }
 
