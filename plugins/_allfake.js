@@ -27,19 +27,19 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), ' ', 'yanxiao021@gmail.com', true],
-         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), ' ', 'yanxiao021@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), ' ', 'Bot@gmail.com', true],
+         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), ' ', 'GannReall@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
 		global.ucapan = ucapan()
 		
 		// pesan sementara
-		global.ephemeral = '86400' // 86400 = 24jam, kalo ingin di hilangkan ganti '86400' jadi 'null' atau ''
+		global.ephemeral = 'null' // 86400 = 24jam, kalo ingin di hilangkan ganti '86400' jadi 'null' atau ''
      		// externalAdReply atau text with thumbnail. gatau bahasa Inggris? coba translate!
 		global.adReply = {
 			contextInfo: {
-				forwardingScore: 9999,
+				forwardingScore: 9728,
 				//isForwarded: true, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
 				externalAdReply: { // Bagian ini sesuka kalian berkreasi :'v
                     showAdAttribution: true,
@@ -81,10 +81,10 @@ handler.all = async function (m) {
 			}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/Jarotr_",
+            mediaUrl: "https://wa.me/6282125968810",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/Jarotr_", 
-            title: 'Oscar-MultiDevice',
+            description: "https://chat.whatsapp.com/Kl5Gqu4Obl60lR1wVCyoiB", 
+            title: 'GannReall-MultiDevice',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sig
@@ -102,7 +102,7 @@ global.fakefb = {
     }
     } }
 		// Fake ðŸ¤¥
-		global.ftroli = { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net' }, message: { orderMessage: { itemCount: 9999999999999999999999999999999999999999999999999999999, status: 1, surface: 1, message: wm, orderTitle: wm, sellerJid: '0@s.whatsapp.net' } } }
+		global.ftroli = { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net' }, message: { orderMessage: { itemCount: 619361992638279, status: 1, surface: 1, message: wm, orderTitle: wm, sellerJid: '0@s.whatsapp.net' } } }
 		global.fkontak = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `status@broadcast` } : {}) }, message: { 'contactMessage': { 'displayName': wm, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${wm},;;;\nFN:${wm},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabell:Ponsel\nEND:VCARD`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg'), thumbnail: fs.readFileSync('./thumbnail.jpg'),sendEphemeral: true}}}
         global.fvn = {
             key: { 
@@ -127,7 +127,7 @@ global.fakefb = {
                        },
             message: { 
                "extendedTextMessage": {
-                        "text":wm,
+                        "text": wm,
                         "title": wm,
                         'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                                }
@@ -162,8 +162,8 @@ global.fakefb = {
                                "mimetype": "image/jpeg",
                                "jpegThumbnail": fs.readFileSync('./thumbnail.jpg') //Gambarnye
                            },
-                           "title": wm, //Kasih namalu 
-                           "description": "Oscar-MultiDevice", 
+                           "title": GannReall💀💀, //Kasih namalu 
+                           "description": "GannReall-MultiDevice", 
                            "currencyCode": "USD",
                            "priceAmount1000": "20000000",
                            "retailerId": "Ghost",
