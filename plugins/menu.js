@@ -51,7 +51,7 @@ const defaultMenu = {
 `.trimStart(),
   header: '%cc *%category* %c1',
   body: '┃❑ %cmd %isPremium %islimit',
-  footer: '',
+  footer: 'Bot By GannReall',
   after: ``,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
@@ -305,7 +305,7 @@ const listMessage = {
   footer: wm2,
   mentions: await conn.parseMention(tek),
   title: ``,
-  buttonText: `CLICK HERE☕︎`,
+  buttonText: `CLICK HERE ☕︎`,
   sections
 }
   if (teks == '404') {
