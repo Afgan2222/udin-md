@@ -106,7 +106,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Afgann - Md˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺  GannReall-MD'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ GannBot'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/rZ3y30Z/e20bfdb39741.jpg'
 
